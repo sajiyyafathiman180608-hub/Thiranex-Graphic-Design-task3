@@ -12,5 +12,4 @@ A promotional poster designed as part of my Thiranex Graphic Designing Internshi
 Modern technology, AI, software and innovation.
 
 ## Files
-- TECHNOVA 2027 Poster (PDF)
 - TECHNOVA 2027 Poster (PNG)
